@@ -1,0 +1,9 @@
+/.handler-saves/
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/webhook_HR.iml
+/config.py
